@@ -3,3 +3,4 @@ googleads.g.doubleclick.net
 adservice.google.com
 pagead2.googlesyndication.com
 admob.com
+adexchangerapid.com
